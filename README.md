@@ -1,4 +1,4 @@
-# Burgify-Burgers---lainding-Page
+# Burgify-Burgers---landing-Page
 This project was done as a project
 
 ### This Project was done to practice more on positioning Elements
